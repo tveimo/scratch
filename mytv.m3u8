@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/nzau/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png",ABC
 https://c.mjh.nz/101002410241/
