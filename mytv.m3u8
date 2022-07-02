@@ -71,5 +71,15 @@ https://c.mjh.nz/abc2/
 #EXTINF:-1 tvg-id="tv.abc_news_90" tvg-logo="https://i.mjh.nz/.images/tv.abc_news_90.png",ABC News in 90 Seconds
 https://i.mjh.nz/au/Brisbane/tv.abc_news_90
 
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",NRK 1  (Test)
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15787.ts?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",NRK1
+http://skylogic.site:8080/edmian50con/506462dc/4525?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TV2 Norge (Test)
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15791.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",TV2 NORGE
+http://skylogic.site:8080/edmian50con/506462dc/4528?checkedby:iptvcat.com
 
