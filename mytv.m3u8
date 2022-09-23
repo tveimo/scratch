@@ -2,6 +2,80 @@
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/Brisbane/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="mjh-abc-qld" channel-id="mjh-abc-qld" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2",ABC TV
+https://c.mjh.nz/abc-qld.m3u8
+
+#EXTINF:-1 tvg-id="mjh-ch9-bne" channel-id="mjh-ch9-bne" tvg-logo="https://i.mjh.nz/.images/ch9-syd.png" tvg-chno="9",Nine
+https://i.mjh.nz/ch9-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-gem-bne" channel-id="mjh-gem-bne" tvg-logo="https://i.mjh.nz/.images/gem-syd.png" tvg-chno="92",9Gem
+https://i.mjh.nz/gem-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-go-bne" channel-id="mjh-go-bne" tvg-logo="https://i.mjh.nz/.images/go-syd.png" tvg-chno="93",9Go!
+https://i.mjh.nz/go-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-life-bne" channel-id="mjh-life-bne" tvg-logo="https://i.mjh.nz/.images/life-syd.png" tvg-chno="94",9Life
+https://i.mjh.nz/life-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-rush-bne" channel-id="mjh-rush-bne" tvg-logo="https://i.mjh.nz/.images/rush-syd.png" tvg-chno="96",9Rush
+https://i.mjh.nz/rush-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-7-bne" channel-id="mjh-7-bne" tvg-logo="https://i.mjh.nz/.images/7-syd.png" tvg-chno="7",Seven
+https://i.mjh.nz/7-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-7two-bne" channel-id="mjh-7two-bne" tvg-logo="https://i.mjh.nz/.images/7two-syd.png" tvg-chno="72",7TWO
+https://i.mjh.nz/7two-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-7mate-bne" channel-id="mjh-7mate-bne" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png" tvg-chno="73",7mate
+https://i.mjh.nz/7mate-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-7flix-bne" channel-id="mjh-7flix-bne" tvg-logo="https://i.mjh.nz/.images/7flix-syd.png" tvg-chno="76",7flix
+https://i.mjh.nz/7flix-bne.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10-qld" channel-id="mjh-10-qld" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10",10
+https://i.mjh.nz/10-qld.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10bold-qld" channel-id="mjh-10bold-qld" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="12",10 BOLD
+https://i.mjh.nz/10bold-qld.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10peach-qld" channel-id="mjh-10peach-qld" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" tvg-chno="11",10 Peach
+https://i.mjh.nz/10peach-qld.m3u8
+
+#EXTINF:-1 tvg-id="mjh-10shake-qld" channel-id="mjh-10shake-qld" tvg-logo="https://i.mjh.nz/.images/10shake-nsw.png" tvg-chno="13",10 SHAKE
+https://i.mjh.nz/10shake-qld.m3u8
+
+#EXTINF:-1 tvg-id="mjh-tvsn-shopping-au" channel-id="mjh-tvsn-shopping-au" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" tvg-chno="16",TVSN Shopping
+https://i.mjh.nz/tvsn-shopping-au.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-kids" channel-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-tv-plus" channel-id="mjh-abc-tv-plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" tvg-chno="22",ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-me" channel-id="mjh-abc-me" tvg-logo="https://i.mjh.nz/.images/abc-me.png" tvg-chno="23",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="mjh-abc-news" channel-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24",ABC NEWS
+https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sbs" channel-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3",SBS
+https://i.mjh.nz/sbs.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sbs-viceland" channel-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31",SBS VICELAND
+https://i.mjh.nz/sbs-viceland.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sbs-food" channel-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33",SBS Food
+https://i.mjh.nz/sbs-food.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sbs-world-movies" channel-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32",SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8
+
+#EXTINF:-1 tvg-id="mjh-sbs-world-watch" channel-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35",SBS World Watch
+https://i.mjh.nz/sbs-world-watch.m3u8
+
+#####
+
 #EXTINF:-1 tvg-id="tv.101002410241" tvg-logo="https://i.mjh.nz/.images/tv.101002410241.png",ABC
 https://c.mjh.nz/101002410241/
 
