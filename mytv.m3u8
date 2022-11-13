@@ -17,14 +17,14 @@ https://i.mjh.nz/sbs.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-world-movies" channel-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="5",SBS World Movies
 https://i.mjh.nz/sbs-world-movies.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7mate-bne" channel-id="mjh-7mate-bne" tvg-logo="https://i.mjh.nz/.images/7mate-syd.png" tvg-chno="6",7mate
-https://i.mjh.nz/7mate-bne.m3u8
+#EXTINF:-1 tvg-id="mjh-7-bri3" channel-id="mjh-7-bri3" tvg-logo="https://i.mjh.nz/.images/7-bri3.png" tvg-chno="73",7mate
+https://i.mjh.nz/7-bri3.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7-bne" channel-id="mjh-7-bne" tvg-logo="https://i.mjh.nz/.images/7-syd.png" tvg-chno="7",Seven
-https://i.mjh.nz/7-bne.m3u8
+#EXTINF:-1 tvg-id="mjh-7-bri1" channel-id="mjh-7-bri1" tvg-logo="https://i.mjh.nz/.images/7-bri1.png" tvg-chno="7",Seven
+https://i.mjh.nz/7-bri1.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7two-bne" channel-id="mjh-7two-bne" tvg-logo="https://i.mjh.nz/.images/7two-syd.png" tvg-chno="8",7TWO
-https://i.mjh.nz/7two-bne.m3u8
+#EXTINF:-1 tvg-id="mjh-7-bri2" channel-id="mjh-7-bri2" tvg-logo="https://i.mjh.nz/.images/7-bri2.png" tvg-chno="72",7two
+https://i.mjh.nz/7-bri2.m3u8
 
 #EXTINF:-1 tvg-id="mjh-ch9-bne" channel-id="mjh-ch9-bne" tvg-logo="https://i.mjh.nz/.images/ch9-syd.png" tvg-chno="9",Nine
 https://i.mjh.nz/ch9-bne.m3u8
@@ -47,8 +47,8 @@ https://i.mjh.nz/life-bne.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-bne" channel-id="mjh-rush-bne" tvg-logo="https://i.mjh.nz/.images/rush-syd.png" tvg-chno="15",9Rush
 https://i.mjh.nz/rush-bne.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7flix-bne" channel-id="mjh-7flix-bne" tvg-logo="https://i.mjh.nz/.images/7flix-syd.png" tvg-chno="16",7flix
-https://i.mjh.nz/7flix-bne.m3u8
+#EXTINF:-1 tvg-id="mjh-7-bri6" channel-id="mjh-7-bri6" tvg-logo="https://i.mjh.nz/.images/7-bri6.png" tvg-chno="76",7flix
+https://i.mjh.nz/7-bri6.m3u8
 
 #EXTINF:-1 tvg-id="mjh-10bold-qld" channel-id="mjh-10bold-qld" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" tvg-chno="17",10 BOLD
 https://i.mjh.nz/10bold-qld.m3u8
