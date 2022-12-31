@@ -26,26 +26,11 @@ https://i.mjh.nz/7-bri1.m3u8
 #EXTINF:-1 tvg-id="mjh-7-bri2" channel-id="mjh-7-bri2" tvg-logo="https://i.mjh.nz/.images/7-bri2.png" tvg-chno="72",7two
 https://i.mjh.nz/7-bri2.m3u8
 
-#EXTINF:-1 tvg-id="mjh-ch9-bne" channel-id="mjh-ch9-bne" tvg-logo="https://i.mjh.nz/.images/ch9-syd.png" tvg-chno="9",Nine
-https://i.mjh.nz/ch9-bne.m3u8
-
 #EXTINF:-1 tvg-id="mjh-10-qld" channel-id="mjh-10-qld" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10",10
 https://i.mjh.nz/10-qld.m3u8
 
 #EXTINF:-1 tvg-id="mjh-abc-news" channel-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="11",ABC NEWS
 https://c.mjh.nz/abc-news.m3u8
-
-#EXTINF:-1 tvg-id="mjh-gem-bne" channel-id="mjh-gem-bne" tvg-logo="https://i.mjh.nz/.images/gem-syd.png" tvg-chno="12",9Gem
-https://i.mjh.nz/gem-bne.m3u8
-
-#EXTINF:-1 tvg-id="mjh-go-bne" channel-id="mjh-go-bne" tvg-logo="https://i.mjh.nz/.images/go-syd.png" tvg-chno="13",9Go!
-https://i.mjh.nz/go-bne.m3u8
-
-#EXTINF:-1 tvg-id="mjh-life-bne" channel-id="mjh-life-bne" tvg-logo="https://i.mjh.nz/.images/life-syd.png" tvg-chno="14",9Life
-https://i.mjh.nz/life-bne.m3u8
-
-#EXTINF:-1 tvg-id="mjh-rush-bne" channel-id="mjh-rush-bne" tvg-logo="https://i.mjh.nz/.images/rush-syd.png" tvg-chno="15",9Rush
-https://i.mjh.nz/rush-bne.m3u8
 
 #EXTINF:-1 tvg-id="mjh-7-bri6" channel-id="mjh-7-bri6" tvg-logo="https://i.mjh.nz/.images/7-bri6.png" tvg-chno="76",7flix
 https://i.mjh.nz/7-bri6.m3u8
@@ -68,4 +53,33 @@ https://i.mjh.nz/sbs-world-watch.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-food" channel-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="22",SBS Food
 https://i.mjh.nz/sbs-food.m3u8
 
+#EXTINF:-1 channel-id="mjh-channel-9-qld" tvg-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Brisbane" ,Channel 9
+https://i.mjh.nz/channel-9-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-channel-9-qld-alt" tvg-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/HtBnd8GsZ-0m6XU8owz7-XYATt4=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F11%2F9_Colour_RGB.png" tvg-chno="9" group-title="Brisbane" ,Channel 9 | Alt
+https://i.mjh.nz/channel-9-qld-alt.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-qld" tvg-id="mjh-gem-qld" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Brisbane" ,9Gem
+https://i.mjh.nz/gem-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-gem-qld-alt" tvg-id="mjh-gem-qld" tvg-logo="https://imageresizer.static9.net.au/R-kis1RnwsPGXmfbHFBfe36kU68=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F13%2F9Gem_Colour_RGB.png" tvg-chno="92" group-title="Brisbane" ,9Gem | Alt
+https://i.mjh.nz/gem-qld-alt.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-qld" tvg-id="mjh-go-qld" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Brisbane" ,9Go!
+https://i.mjh.nz/go-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-go-qld-alt" tvg-id="mjh-go-qld" tvg-logo="https://imageresizer.static9.net.au/22I0ZFSBVvijX3R1EJxoC5wKtfc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F12%2F9Go_Colour_RGB.png" tvg-chno="93" group-title="Brisbane" ,9Go! | Alt
+https://i.mjh.nz/go-qld-alt.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-qld" tvg-id="mjh-life-qld" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Brisbane" ,9Life
+https://i.mjh.nz/life-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-life-qld-alt" tvg-id="mjh-life-qld" tvg-logo="https://imageresizer.static9.net.au/eeHbR53TZ7qVQHBqns859ySz0nM=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2015%2F11%2F14%2F9Life_Colour_RGB.png" tvg-chno="94" group-title="Brisbane" ,9Life | Alt
+https://i.mjh.nz/life-qld-alt.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-qld" tvg-id="mjh-rush-qld" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Brisbane" ,9Rush
+https://i.mjh.nz/rush-qld.m3u8
+
+#EXTINF:-1 channel-id="mjh-rush-qld-alt" tvg-id="mjh-rush-qld" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Brisbane" ,9Rush | Alt
+https://i.mjh.nz/rush-qld-alt.m3u8
 
