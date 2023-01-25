@@ -83,3 +83,23 @@ https://i.mjh.nz/rush-qld.m3u8
 #EXTINF:-1 channel-id="mjh-rush-qld-alt" tvg-id="mjh-rush-qld" tvg-logo="https://imageresizer.static9.net.au/uFJ9ulq8ZfWgBguBhcaZtXPJ9Bc=/1280x0/vms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2020%2F01%2F275893%2F9Rush_Colour_RGB.png" tvg-chno="96" group-title="Brisbane" ,9Rush | Alt
 https://i.mjh.nz/rush-qld-alt.m3u8
 
+#EXTINF:-1,1 ABCTV HD
+http://10.1.1.243:3000/T-4112-579-709
+#EXTINF:-1,2 ABCKids/TVPlus
+http://10.1.1.243:3000/T-4112-579-706
+#EXTINF:-1,3 ABC ME
+http://10.1.1.243:3000/T-4112-579-708
+#EXTINF:-1,4 SBS ONE HD
+http://10.1.1.243:3000/T-12802-944-949
+#EXTINF:-1,5 SBS World Movies
+http://10.1.1.243:3000/T-12802-944-951
+#EXTINF:-1,6 10 Peach
+http://10.1.1.243:3000/T-12812-2065-2097
+#EXTINF:-1,7 7HD Sunshine Coast
+http://10.1.1.243:3000/T-4115-2384-2400
+#EXTINF:-1,8 9HD
+http://10.1.1.243:3000/T-12913-12927-1942
+#EXTINF:-1,9 10 HD
+http://10.1.1.243:3000/T-4116-1540-1604
+
+
