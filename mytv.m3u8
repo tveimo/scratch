@@ -17,14 +17,17 @@ https://i.mjh.nz/sbs.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-world-movies" channel-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="5",SBS World Movies
 https://i.mjh.nz/sbs-world-movies.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7-bri3" channel-id="mjh-7-bri3" tvg-logo="https://i.mjh.nz/.images/7-bri3.png" tvg-chno="73",7mate
-https://i.mjh.nz/7-bri3.m3u8
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/seven-bri.png" tvg-chno="7" group-title="Brisbane" , Seven
+https://i.mjh.nz/seven-bri.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7-bri1" channel-id="mjh-7-bri1" tvg-logo="https://i.mjh.nz/.images/7-bri1.png" tvg-chno="7",Seven
-https://i.mjh.nz/7-bri1.m3u8
+#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/7two-bri.png" tvg-chno="72" group-title="Brisbane" , 7two
+https://i.mjh.nz/7two-bri.m3u8
 
-#EXTINF:-1 tvg-id="mjh-7-bri2" channel-id="mjh-7-bri2" tvg-logo="https://i.mjh.nz/.images/7-bri2.png" tvg-chno="72",7two
-https://i.mjh.nz/7-bri2.m3u8
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/7mate-bri.png" tvg-chno="74" group-title="Brisbane" , 7mate
+https://i.mjh.nz/7mate-bri.m3u8
+
+#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/7flix-bri.png" tvg-chno="76" group-title="Brisbane" , 7flix
+https://i.mjh.nz/7flix-bri.m3u8
 
 #EXTINF:-1 tvg-id="mjh-10-qld" channel-id="mjh-10-qld" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" tvg-chno="10",10
 https://i.mjh.nz/10-qld.m3u8
